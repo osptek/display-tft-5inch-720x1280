@@ -1,0 +1,10 @@
+id: YDP500BT004-V1
+category: displays
+size: "5"
+panel: tft
+resolution: 720x1280
+interface: [mipi]
+driver: JD9365
+touch: null
+outline: 66.4 x 120.05 mm
+active_area: 61.78 x 109.85 mm
